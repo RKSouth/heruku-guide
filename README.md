@@ -1,6 +1,8 @@
 # Heroku Use Guide
 ## A simple guide on the basic process for setting up heroku
 
+Create your deployed site BEFORE you start your project (to track your commits effectively)
+
 ## Table of Contents
 * [Basic Proccess](#Basic_Proccess)
 * [Usage](#Usage)
@@ -8,8 +10,6 @@
 * [Credits](#Credits)
 * [License](#License)
 
-
-Create your deployed site BEFORE you start your project (to track your commits effectively)
 
 ## Basic_Proccess
 
