@@ -21,9 +21,11 @@ Create your deployed site BEFORE you start your project (to track your commits e
 6. git init (enter)
 7. git add . (enter)
 8. git commit -m"init commit" (enter)
-9. heroku create --2 urls should appear (save them)
-10. git push origin master
-11. git push heroku master
+9. heroku login (enter)
+10. type in a letter to be redirected to a log in
+11. heroku create --2 urls should appear (save them)
+12. git push origin master
+13. git push heroku master
 
 ## Each time you want to commit again
 
