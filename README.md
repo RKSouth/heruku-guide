@@ -3,13 +3,18 @@
 
 Create your deployed site BEFORE you start your project (to track your commits effectively)
 
+Please do not forget to create a .gitignore for your assignments, and in them add:
+.DS_Store
+node_modules
+package-lock.json
+
+If you want to set up heroku to work with mysql there are additional steps that aren't included (you probably want to find those first)
+
 ## Table of Contents
 * [Basic Proccess](#Basic_Proccess)
 * [Usage](#Usage)
 * [Author](#Author)
 * [Credits](#Credits)
-* [License](#License)
-
 
 ## Basic_Proccess
 
@@ -42,7 +47,11 @@ or
 1. git checkout -b masterbranch
 2. git push herko masterbranch
 
-this resets the master branch
+this resets the master branch - you may need to go into your github settings under branches and reset your branch
+
+or
+1. git remote add origin https:yourrepofilename
+2. git push origin maset
 
 ## Usage
 
