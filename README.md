@@ -61,6 +61,8 @@ For anyone who can't keep track of all the step by step guides and hold them in 
 
 Rachael Kelm-Southworth
 
-* [linkedin] (https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3) 
+* [linkedin](https://www.linkedin.com/in/rachael-kelm-southworth-87a3831b3) 
 
-* [github] (https://github.com/RKSouth/)
+* [github](https://github.com/RKSouth/)
+
+* [portfolio](https://rksouth.github.io/responsive_portfolio/)
